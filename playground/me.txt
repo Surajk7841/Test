@@ -1,0 +1,6 @@
+{{#user}
+Name: Suraj kotule
+Skills: HTML, CSS, JS, React.js
+Email: kotulesuraj@gmail.com
+{{/user}}
+ 
